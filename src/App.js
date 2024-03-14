@@ -1,10 +1,10 @@
 import logo from './logo.svg';
-import './App.css';
+import UserForm from './Component/UserForm/UserForm';
 
 function App() {
   return (
     <div className="App">
-      
+       <UserForm />
     </div>
   );
 }
